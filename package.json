@@ -7,12 +7,14 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "service-runner": "jade-service-runner",
     "lint": "tslint --fix -p .",
     "test": "npm run lint && react-scripts test --coverage --passWithNoTests"
   },
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@etclabscore/jade-service-runner": "^1.1.2",
     "@types/jest": "^24.0.13",
     "@types/react-dom": "^16.8.4",
     "jest": "24.7.1",
@@ -34,6 +36,8 @@
     ]
   },
   "dependencies": {
+    "@etclabscore/ethereum-json-rpc": "^1.0.10",
+    "@etclabscore/jade-service-runner-react-hooks": "^1.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }

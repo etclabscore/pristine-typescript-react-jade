@@ -1,10 +1,14 @@
-# Pristine Typescript React
+# Pristine Typescript React Jade
 
-A typescript open source repository in its original condition. It leverages Typescript and React to give a good starting point for new and existing projects.
+<h1 align="center">
+  <p><a href="https://jade.builders"><img alt="jade logo" src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png" alt="jade.builders" width="125"></a></p>
+</h1>
 
-Pristine Typescript React a fork of [Pristine](https://github.com/etclabscore/pristine).
+An open source repository in its original condition. It leverages Typescript React, and [Jade](https://jade.builders) to give a good starting point for new and existing projects for peer-to-peer decentralized applications.
 
-There are a lack of repositories to start from to build community driven open source projects. Pristine Typescript is a complete starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
+Pristine Typescript React Jade is a fork of [etclabscore/pristine-typescript-react](https://github.com/etclabscore/pristine-typescript-react).
+
+There are a lack of repositories to start from to build community driven open source projects. Pristine Typescript React Jade is a complete starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
 
 ## How to use Pristine in your project
 
@@ -54,3 +58,12 @@ Then edit the `package.json` and change the `name` and `homepage` fields to matc
 ### Contributing
 
 How to contribute, build and release are outlined in [CONTRIBUTING.md](CONTRIBUTING.md), [BUILDING.md](BUILDING.md) and [RELEASING.md](RELEASING.md) respectively. Commits in this repository follow the [CONVENTIONAL_COMMITS.md](CONVENTIONAL_COMMITS.md) specification.
+
+## Usage
+
+This project requires the service runner, it is packaged as a command in the `package.json`.
+
+To get it up and running run the following commands separately:
+
+- `npm start`
+- `npm run service-runner`
