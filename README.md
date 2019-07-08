@@ -12,6 +12,13 @@ Pristine Typescript React Jade is a fork of [etclabscore/pristine-typescript-rea
 
 There are a lack of repositories to start from to build community driven open source projects. Pristine Typescript React Jade is a complete starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
 
+
+## Screenshot
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/364566/60776464-53787600-a0e1-11e9-9db3-44874d217b3a.png">
+</h1>
+
+
 ## How to use Pristine in your project
 
 There are 3 options for using pristine with your project.
