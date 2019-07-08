@@ -4,7 +4,9 @@
   <p><a href="https://jade.builders"><img alt="jade logo" src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png" alt="jade.builders" width="125"></a></p>
 </h1>
 
-An open source repository in its original condition. It leverages Typescript React, and [Jade](https://jade.builders) to give a good starting point for new and existing projects for peer-to-peer decentralized applications.
+The goal of Jade is to provide a suite of tools to enable the creation of truly peer-to-peer applications on top of EVM-based blockchains like Ethereum Classic.
+
+This is an open source repository in its original condition. It leverages Typescript React, and [Jade](https://jade.builders) to give a good starting point for new and existing projects for peer-to-peer decentralized applications.
 
 Pristine Typescript React Jade is a fork of [etclabscore/pristine-typescript-react](https://github.com/etclabscore/pristine-typescript-react).
 
