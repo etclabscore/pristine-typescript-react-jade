@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/etclabscore/pristine-typescript-react-jade/compare/1.0.0...1.0.1) (2019-07-11)
+
+
+### Bug Fixes
+
+* add pristine post install hook ([821f8f0](https://github.com/etclabscore/pristine-typescript-react-jade/commit/821f8f0))
+* **post-install:** clear color for homepage input ([416c3b8](https://github.com/etclabscore/pristine-typescript-react-jade/commit/416c3b8))
+
 # 1.0.0 (2019-07-11)
 
 
