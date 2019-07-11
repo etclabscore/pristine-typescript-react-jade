@@ -1,7 +1,7 @@
 {
-  "name": "@etclabscore/pristine-typescript-react",
+  "name": "@etclabscore/pristine-typescript-react-jade",
   "version": "0.0.0-development",
-  "homepage": "https://etclabscore.github.io/pristine-typescript-react/",
+  "homepage": "https://etclabscore.github.io/pristine-typescript-react-jade/",
   "description": "",
   "main": "build/index.js",
   "scripts": {
