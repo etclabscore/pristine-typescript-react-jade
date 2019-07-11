@@ -17,7 +17,7 @@ read packageName
 
 echo ""
 
-echo -e "${BLUE}Enter the homepage that will be used for the React app (if hosted on github pages domain)"
+echo -e "${BLUE}Enter the homepage that will be used for the React app (if hosted on github pages domain)${NC}"
 
 read homepage
 
