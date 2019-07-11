@@ -14,7 +14,7 @@ const useBlockNumber = (erpc: EthereumJSONRPC | undefined): [string] => {
 };
 
 const MyApp = (props: any) => {
-  const [serviceRunner] = useServiceRunner("http://localhost:8002");
+  const [serviceRunner] = useServiceRunner();
   const [erpc] = useService<EthereumJSONRPC>(serviceRunner, "multi-geth", EthereumJSONRPC, "1.9.0", "mainnet");
   const [blockNumber] = useBlockNumber(erpc);
 
