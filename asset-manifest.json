@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pristine-typescript-react/static/js/main.8ee80edd.chunk.js",
+    "main.js.map": "/pristine-typescript-react/static/js/main.8ee80edd.chunk.js.map",
+    "runtime~main.js": "/pristine-typescript-react/static/js/runtime~main.911f3243.js",
+    "runtime~main.js.map": "/pristine-typescript-react/static/js/runtime~main.911f3243.js.map",
+    "static/js/2.6d3478ae.chunk.js": "/pristine-typescript-react/static/js/2.6d3478ae.chunk.js",
+    "static/js/2.6d3478ae.chunk.js.map": "/pristine-typescript-react/static/js/2.6d3478ae.chunk.js.map",
+    "index.html": "/pristine-typescript-react/index.html",
+    "precache-manifest.b641e2a4b42a4db38a16b9437ad02cb9.js": "/pristine-typescript-react/precache-manifest.b641e2a4b42a4db38a16b9437ad02cb9.js",
+    "service-worker.js": "/pristine-typescript-react/service-worker.js"
+  }
+}
