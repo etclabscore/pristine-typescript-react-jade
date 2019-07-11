@@ -25,7 +25,7 @@ const MyApp = (props: any) => {
   return (
     <div>
       <div style={{textAlign: "center"}}>
-        <img src="https://github.com/etclabscore/jade-media-assets/blob/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png?raw=true" />
+        <img alt="jade-logo" src="https://github.com/etclabscore/jade-media-assets/blob/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png?raw=true" />
       </div>
       <div style={{textAlign: "center", width: "300px", margin: "0 auto", paddingBottom: "5vh", color: "gray"}}>
         <span>
