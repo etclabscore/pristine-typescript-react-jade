@@ -44,7 +44,7 @@ Install package dependencies.
 npm install
 ```
 
-The project utilizes [Jade Servive Runner](https://github.com/etclabscore/jade-service-runner) to run an EVM based client in the background.  To run the app and background-service, run the following commands seperately.
+The project utilizes [Jade Service Runner](https://github.com/etclabscore/jade-service-runner) to run an EVM based client in the background.  To run the app and background-service, run the following commands seperately.
 
 ```bash
 npm start
