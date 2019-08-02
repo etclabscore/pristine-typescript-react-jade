@@ -1,4 +1,4 @@
-# Pristine Typescript React Jade
+# Pristine TypeScript React Jade
 
 <h1 align="center">
   <p><a href="https://jade.builders"><img alt="jade logo" src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png" alt="jade.builders" width="125"></a></p>
