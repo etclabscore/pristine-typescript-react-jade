@@ -52,7 +52,7 @@ npm start
 ```
 
 ```bash
-npm run servive-runner
+npm run service-runner
 # Runs MultiGeth service, configured to ETC mainnet by default.
 # Runs at http://localhost:8002/
 ```
