@@ -14,7 +14,7 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@etclabscore/jade-service-runner": "^1.1.2",
+    "@etclabscore/jade-service-runner": "^1.4.14",
     "@types/jest": "^24.0.18",
     "@types/react-dom": "^16.8.4",
     "jest": "24.7.1",
