@@ -23,9 +23,16 @@ read homepage
 
 echo ""
 
-# using ~ in place of / to avoid slashes in package names conflicting with sed
-sed -i  "" -e "s~${defaultPackageName}~${packageName}~g"  package.json
-sed -i  "" -e "s~${defaultHomepage}~${homepage}~g"  package.json
+function replaceTextInFile() {
+  # using ~ in place of / to avoid slashes in package names conflicting with sed
+  if [[ "$OSTYPE" == "darwin"* ]]; then
+    sed -i  "" -e "s~$1~$2~g" $3
+  else
+    sed -i  -e "s~$1~$2~g" $3
+  fi
+}
+replaceTextInFile $defaultPackageName $packageName package.json
+replaceTextInFile $defaultHomepage $homepage  package.json
 
 echo -e "${BLUE} 🚀  Project Setup Completed. 🚀"
 
