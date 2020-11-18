@@ -47,6 +47,6 @@
     "@semantic-release/release-notes-generator": "^7.3.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "semantic-release": "^15.13.18"
+    "semantic-release": "^17.2.3"
   }
 }
